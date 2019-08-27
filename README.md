@@ -1,4 +1,4 @@
-# sh10-app8 world
+# sh10-app8 world  python
 
 hello
 python
